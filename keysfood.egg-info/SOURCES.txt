@@ -17,3 +17,5 @@ keysfood/ext/config/__init__.py
 keysfood/ext/db/__init__.py
 keysfood/ext/site/__init__.py
 keysfood/ext/site/main.py
+keysfood/ext/site/models.py
+keysfood/ext/toolbar/__init__.py
